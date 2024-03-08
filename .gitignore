@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# Compiled extension files
+bin/extensions
+bin/**/*.zip
+
+# Env files
+.env
